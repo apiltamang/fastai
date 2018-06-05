@@ -1,0 +1,4 @@
+Some thoughts:
+- Virtually no difference in accuracy with/without using augmentation on the forms training set.
+
+- Without using the augmentation, I get a slight better final loss. 0.32 VS 0.26.

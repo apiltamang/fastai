@@ -124,3 +124,9 @@ Thumbs.db
 
 # pytest
 .pytest_cache
+
+# folder where all notebooks are dumped as python files
+nb_dump/
+
+# changes to the binary file
+fastai/bin/

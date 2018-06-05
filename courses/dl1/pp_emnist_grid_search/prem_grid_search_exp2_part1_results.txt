@@ -1,0 +1,135 @@
+training for arch: resnet18, image_size: 28, pretrained: True
+HBox(children=(IntProgress(value=0, description='Epoch', max=5), HTML(value='')))
+epoch      trn_loss   val_loss   accuracy   
+    0      1.398871   1.071478   0.667184  
+    1      1.214166   0.976543   0.694534  
+    2      1.229284   0.934253   0.705882  
+    3      1.177656   0.89323    0.719048  
+    4      1.14281    0.88705    0.722372  
+
+HBox(children=(IntProgress(value=0, description='Epoch', max=5), HTML(value='')))
+epoch      trn_loss   val_loss   accuracy   
+    0      1.080941   0.844848   0.733676  
+    1      1.127314   0.840778   0.733942  
+    2      1.0411     0.835549   0.735228  
+    3      1.053699   0.832955   0.734651  
+    4      1.081786   0.826538   0.739616  
+
+training for arch: resnet34, image_size: 28, pretrained: True
+HBox(children=(IntProgress(value=0, description='Epoch', max=5), HTML(value='')))
+epoch      trn_loss   val_loss   accuracy   
+    0      1.241866   0.926963   0.712133  
+    1      1.118245   0.838225   0.737887  
+    2      1.025553   0.81024    0.745778  
+    3      1.018361   0.785806   0.749501  
+    4      1.000602   0.783017   0.757702  
+
+HBox(children=(IntProgress(value=0, description='Epoch', max=5), HTML(value='')))
+epoch      trn_loss   val_loss   accuracy   
+    0      0.935215   0.7358     0.768208  
+    1      0.938463   0.730592   0.770291  
+    2      0.919093   0.724701   0.772596  
+    3      0.922554   0.735459   0.770557  
+    4      0.912788   0.712368   0.774946  
+
+training for arch: resnet50, image_size: 28, pretrained: True
+HBox(children=(IntProgress(value=0, description='Epoch', max=5), HTML(value='')))
+epoch      trn_loss   val_loss   accuracy   
+    0      1.129859   0.862114   0.722417  
+    1      0.96512    0.791319   0.745999  
+    2      0.942468   0.740459   0.763154  
+    3      0.904323   0.713679   0.769316  
+    4      0.869598   0.708162   0.772641  
+
+HBox(children=(IntProgress(value=0, description='Epoch', max=5), HTML(value='')))
+epoch      trn_loss   val_loss   accuracy   
+    0      0.759718   0.664165   0.786205  
+    1      0.773658   0.656016   0.786382  
+    2      0.768102   0.648424   0.788421  
+    3      0.764552   0.646182   0.789574  
+    4      0.716784   0.643431   0.789175  
+
+training for arch: resnet101, image_size: 28, pretrained: True
+HBox(children=(IntProgress(value=0, description='Epoch', max=5), HTML(value='')))
+epoch      trn_loss   val_loss   accuracy   
+    0      1.265207   0.958896   0.697194  
+    1      1.03939    0.864216   0.729332  
+    2      1.025781   0.811742   0.740724  
+    3      0.971525   0.788099   0.748925  
+    4      0.89595    0.761402   0.754466  
+
+HBox(children=(IntProgress(value=0, description='Epoch', max=5), HTML(value='')))
+epoch      trn_loss   val_loss   accuracy   
+    0      0.809257   0.729979   0.766878  
+    1      0.849099   0.727855   0.76639   
+    2      0.827463   0.726672   0.769538  
+    3      0.856174   0.72388    0.76772   
+    4      0.843931   0.706851   0.773439  
+
+training for arch: resnet18, image_size: 64, pretrained: True
+HBox(children=(IntProgress(value=0, description='Epoch', max=5), HTML(value='')))
+epoch      trn_loss   val_loss   accuracy   
+    0      1.275853   0.967956   0.698746  
+    1      1.148106   0.888663   0.718605  
+    2      1.1267     0.83872    0.734164  
+    3      1.022778   0.81273    0.739793  
+    4      1.015819   0.80029    0.746664  
+
+HBox(children=(IntProgress(value=0, description='Epoch', max=5), HTML(value='')))
+epoch      trn_loss   val_loss   accuracy   
+    0      0.966651   0.757359   0.758323  
+    1      0.977669   0.749881   0.760273  
+    2      0.966215   0.743038   0.763997  
+    3      0.913647   0.735253   0.765149  
+    4      0.905249   0.729385   0.767366  
+
+training for arch: resnet34, image_size: 64, pretrained: True
+HBox(children=(IntProgress(value=0, description='Epoch', max=5), HTML(value='')))
+epoch      trn_loss   val_loss   accuracy   
+    0      1.169716   0.87482    0.725342  
+    1      1.056587   0.794233   0.743473  
+    2      0.988027   0.751372   0.761603  
+    3      0.907587   0.727027   0.763952  
+    4      0.903816   0.704006   0.770424  
+
+HBox(children=(IntProgress(value=0, description='Epoch', max=5), HTML(value='')))
+epoch      trn_loss   val_loss   accuracy   
+    0      0.879565   0.680905   0.777428  
+    1      0.858166   0.672375   0.782393  
+    2      0.89096    0.666112   0.783811  
+    3      0.853334   0.660948   0.785806  
+    4      0.844363   0.658896   0.787402  
+
+training for arch: resnet50, image_size: 64, pretrained: True
+HBox(children=(IntProgress(value=0, description='Epoch', max=5), HTML(value='')))
+epoch      trn_loss   val_loss   accuracy   
+    0      1.077973   0.854445   0.726672  
+    1      0.9986     0.755901   0.757746  
+    2      0.906674   0.705231   0.773527  
+    3      0.860422   0.684171   0.777694  
+    4      0.821343   0.665724   0.782526  
+
+HBox(children=(IntProgress(value=0, description='Epoch', max=5), HTML(value='')))
+epoch      trn_loss   val_loss   accuracy   
+    0      0.770996   0.613845   0.797331  
+    1      0.688518   0.60548    0.800523  
+    2      0.696648   0.603858   0.800789  
+    3      0.703792   0.592683   0.802208  
+    4      0.70728    0.588387   0.803537  
+
+training for arch: resnet101, image_size: 64, pretrained: True
+HBox(children=(IntProgress(value=0, description='Epoch', max=5), HTML(value='')))
+epoch      trn_loss   val_loss   accuracy   
+    0      1.089729   0.804899   0.742808  
+    1      0.954523   0.71172    0.767454  
+    2      0.862471   0.673551   0.777428  
+    3      0.826745   0.644545   0.789751  
+    4      0.784021   0.62268    0.795425  
+
+HBox(children=(IntProgress(value=0, description='Epoch', max=5), HTML(value='')))
+epoch      trn_loss   val_loss   accuracy   
+    0      0.694264   0.58135    0.808635  
+    1      0.727437   0.573348   0.810586  
+    2      0.640195   0.571177   0.810896  
+    3      0.641538   0.568179   0.81125   
+    4      0.62511    0.56217    0.81493   
